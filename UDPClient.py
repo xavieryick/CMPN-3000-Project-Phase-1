@@ -1,5 +1,5 @@
 from socket import *
-serverName = 'localhost' # defining server name/ip
+serverName = '127.0.0.1' # defining server name/ip
 serverPort = 12000 # defining server port
 clientSocket = socket(AF_INET, SOCK_DGRAM) # creating client side socket
 
