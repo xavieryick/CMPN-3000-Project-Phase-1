@@ -3,7 +3,7 @@
 * Creation date: Fall 2026 (Year 1)
 
 ## Overview
-This project is a simple echo app which takes the inputs from a client and returns the inputs in all uppercase.
+This project is a simple echo app which takes the inputs sent to the server from the client, and returns the inputs from the server to the client.
 It can be run using two terminal windows on one machine, by running ```python FILENAME```.
 To close the programs, type ```exit``` into the client-side terminal window.
 
